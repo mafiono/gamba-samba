@@ -6,7 +6,7 @@ This repository can be used as a starting template for a completely new game or 
 
 ## Quick Setup
 
-1. [Fork this repository](https://github.com/gamba-labs/platform/generate).
+1. [Fork this repository](https://github.com/mafiono/gamba-samba).
 
 2. [Connect your forked repo and deploy on Vercel](https://vercel.com/new).
 
